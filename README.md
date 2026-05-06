@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,8 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/dental-practice-insurance-claims-and-patient-billing-automation-workflow)**
+**[Get Pro Version](https://buy.stripe.com/8x26oHdPp4sc6xy33mcZb0g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x26oHdPp4sc6xy33mcZb0g)
+- [Buy on Whop](https://whop.com/dental-practice-insurance-claims-and-patient-billing-automation-workflow)
 
